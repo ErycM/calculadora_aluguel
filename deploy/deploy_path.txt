@@ -1,0 +1,4 @@
+& C:/Users/erycm/anaconda3/python.exe "c:/Users/erycm/Documents/ciencia 
+dos dados/awari/calculadora_aluguel/calculadora_aluguel - regressao linear.ipynb"
+
+C:/Users/erycm/AppData/Local/Microsoft/WindowsApps/python3.9.exe
